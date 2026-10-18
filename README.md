@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rjshajin
 - 👀 I’m interested in - Science,Philosophy and Coo..ding? Ahmm!
-- 🌱 I’m currently learning C,C++,Java
+- 🌱 I’m currently learning C,C++,Python,Java.
 - 📫 How to reach me  'RJ Shajin(Raofin Jahan Shajin)' [facebook]
 - ⚡ "The unexamined life is not worth living"
 
